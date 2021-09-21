@@ -1,0 +1,23 @@
+{
+  "name": "restiapi_hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lndsilva/restiapi_hero.git"
+  },
+  "keywords": [],
+  "author": "lndsilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lndsilva/restiapi_hero/issues"
+  },
+  "homepage": "https://github.com/lndsilva/restiapi_hero#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
